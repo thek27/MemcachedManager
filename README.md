@@ -1,4 +1,4 @@
-# MemcachedManager
+MemcachedManager
 
 <?php
 include 'MemcachedManager.php';
