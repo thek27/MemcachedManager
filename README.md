@@ -1,8 +1,8 @@
 # MemcachedManager
 
-<?php<br>
-include 'MemcachedManager.php';<br>
-$manager = new MemcachedManager;<br>
-$items = $manager->getItems();<br>
-print_r($items);<br>
-?><br>
+<?php
+include 'MemcachedManager.php';
+$manager = new MemcachedManager;
+$items = $manager->getItems();
+print_r($items);
+?>
